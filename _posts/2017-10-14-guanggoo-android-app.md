@@ -61,7 +61,7 @@ keywords: Android, 光谷社区
 
 （如果使用微信识别二维码不能开始下载，还是复制上方的链接到浏览器打开下载吧）
 
-<div align="center"><img width="192px" height="192px" src="https://mazhuang.org/guanggoo-android/qrcode.png"/></div>
+<div align="center"><img width="192px" height="192px" src="https://panlongshouhu.github.io/shiqiang/assets/images/qrcode.png"/></div>
 
 ## 为什么会做这个
 
@@ -85,4 +85,4 @@ PS: 本文非软文，也没有收取光谷社区任何好处，请光谷社区�
 
 好了，最后照例安利一下我自己的微信公众号，近期专注 Java、Android 相关的技术分享，如果你感兴趣，可以关注一下接收最新动态。
 
-<div align="center"><img width="192px" height="192px" src="https://mazhuang.org/assets/images/qrcode.jpg"/></div>
+<div align="center"><img width="192px" height="192px" src="https://panlongshouhu.github.io/shiqiang/assets/images/qrcode.png"/></div>
