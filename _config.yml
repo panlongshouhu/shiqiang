@@ -141,8 +141,8 @@ gitment:
 gitalk:
     owner: panlongshouhu
     repo: shiqiang
-    clientID: f1ff3a97b990563a3fab
-    clientSecret: db6a7b343c6f0b83c002376b0acbd91ce2cfe7c3
+    clientID: 64cbd753acd7383a7569
+    clientSecret: fc18db22869bb88b0b49841ea5c07c7019c241da
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
