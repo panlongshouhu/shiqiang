@@ -92,11 +92,12 @@ $(document).ready(function () {
 });
 ```
 
-链接使用方法如下：  
+链接使用方法如下：[内容](链接)  
 这是一个链接 [海贼王](https://www.shiqiang.space)
 
-Markdown 图片语法格式如下：
-![海贼王](https://panlongshouhu.github.io/shiqiang/assets/images/qrcode.png)  
+Markdown 图片语法格式如下：  
+\!\[图片不展示文案\]\(图片地址\)  
+\!\[图片不展示文案\]\(图片地址,"标题"\) 
 ![海贼王](https://panlongshouhu.github.io/shiqiang/assets/images/qrcode.png "海贼王")
 
 当然，你也可以像网址那样对图片网址使用变量:
@@ -105,7 +106,7 @@ Markdown 图片语法格式如下：
 [icon]: https://panlongshouhu.github.io/shiqiang/assets/images/qrcode.png
 
 Markdown 还没有办法指定图片的高度与宽度，如果你需要的话，你可以使用普通的 <img> 标签。
-<img src="https://panlongshouhu.github.io/shiqiang/assets/images/qrcode.png" width="50%">
+<!-- <img src="https://panlongshouhu.github.io/shiqiang/assets/images/qrcode.png" width="50%"> -->
 
 Markdown 制作表格使用 | 来分隔不同的单元格，使用 - 来分隔表头和其他行。
 语法格式如下：
@@ -124,7 +125,8 @@ Markdown 制作表格使用 | 来分隔不同的单元格，使用 - 来分隔�
 支持的 HTML 元素
 不在 Markdown 涵盖范围之内的标签，都可以直接在文档里面用 HTML 撰写。
 
-目前支持的 HTML 元素有：<kbd> <b> <i> <em> <sup> <sub> <br>等 ，如：
+目前支持的 HTML 元素有：  
+&lt;kbd&gt; &lt;b&gt; &lt;i&gt; &lt;em&gt; &lt;sup&gt; &lt;sub&gt; &lt;br&gt;等 ，如：
 使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 重启电脑
 
 Markdown 使用了很多特殊符号来表示特定的意义，如果需要显示特定的符号则需要使用转义字符，Markdown 使用反斜杠转义特殊字符：
