@@ -50,7 +50,7 @@ sudo xattr -rd com.apple.quarantine
 
 注意 quarantine 后面必须有个空格
 
-<img src="/images/posts/mac_catalina.png" width="80%" alt="拖拽演示图" />
+<img src="/images/posts/mac_catalina.webp" width="80%" alt="拖拽演示图" />
 
 好了再看一下是不是可以打开APP了！
 
