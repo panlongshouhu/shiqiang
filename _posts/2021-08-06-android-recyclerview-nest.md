@@ -4,6 +4,7 @@ title: NestedScrollView(RecyclerView)嵌套RecyclerView(同方向)从入门到�
 categories: android
 description: NestedScrollView(RecyclerView)嵌套RecyclerView(同方向)从入门到放弃
 keywords: android, NestedScrollView
+topmost: true
 ---
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;由于业务发展的需要或者版本的快速迭代，导致页面会遇到NestedScrollView(RecyclerView)嵌套RecyclerView的这种需求实现方式，在此记录一下具体的几种可行方式和踏坑问题，以供参考。
