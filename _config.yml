@@ -4,10 +4,10 @@
 baseurl:
 url: https://panlongshouhu.github.io/shiqiang/
 date_format: "ordinal"
-title: 海贼王
-subtitle: "初皇-程序员"
+title: 石强的博客
+subtitle: "向全栈工程师奋斗"
 description: "石强的个人博客，公众号：盲盒知识"
-keywords: 海贼王, shiqiang, 石强, 四皇, 程序员, 博客, 盲盒知识
+keywords: shiqiang, 石强, 四皇, 程序员, 博客, 盲盒知识
 timezone: Asia/Beijing
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -54,7 +54,7 @@ author: shi qiang
 organization: 
 organization_url: 
 github_username: panlongshouhu
-location: Beijinig, China
+location: 中国北京
 email: panlongshouhu@gmail.com
 
 # ---------------- #
