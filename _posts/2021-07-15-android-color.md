@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 百分比颜色值对应十六进制
-categories: android
+categories: Android
 description: 百分比颜色值对应十六进制
 keywords: android, 颜色
 ---

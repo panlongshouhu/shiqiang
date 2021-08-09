@@ -1,7 +1,7 @@
 ---
 layout: post
 title: apk命令签名
-categories: android
+categories: Android
 description: 用命令给apk进行签名
 keywords: android, apk
 ---

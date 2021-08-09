@@ -1,7 +1,7 @@
 ---
 layout: post
 title: markdown教程
-categories: markdown
+categories: Markdown
 description: markdown教程
 keywords: markdown, 教程
 ---

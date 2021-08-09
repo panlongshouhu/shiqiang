@@ -1,7 +1,7 @@
 ---
 layout: post
 title: macOS 10.15 Catalina app损坏问题
-categories: mac
+categories: Mac
 description: macOS 10.15 Catalina xxx.app已损坏，无法打开，你应该将它移到废纸篓解决方法
 keywords: mac, Catalina
 ---

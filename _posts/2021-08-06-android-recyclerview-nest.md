@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NestedScrollView(RecyclerView)嵌套RecyclerView(同方向)从入门到放弃
-categories: android
+categories: Android
 description: NestedScrollView(RecyclerView)嵌套RecyclerView(同方向)从入门到放弃
 keywords: android, NestedScrollView
 topmost: true
